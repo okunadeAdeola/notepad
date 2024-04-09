@@ -1,0 +1,121 @@
+body {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  background-color: black;
+}
+#container {
+  background-color: purple;
+}
+#home {
+  height: 10vh;
+  height: 13vh;
+  background-size: cover;
+  background-color: white;
+}
+#img {
+  max-width: 10%;
+  height: 10vh;
+  border-radius: 100%;
+  margin: 10px 0px 0px 50px;
+  box-shadow: 1px 1px 7px 5px lightblue;
+}
+#h2One {
+  margin: 15px;
+  color: lightblue;
+  /* text-shadow: 2px 2px 2px purple; */
+  color: purple;
+}
+#h3One, #h3Two {
+  margin: 15px;
+  font-size: 25px;
+  /* color: lightblue; */
+  color: purple;
+}
+a {
+  text-decoration: none;
+  color: blue;
+}
+#container1 {
+  height: 75vh;
+  width: 40vw;
+  margin-left: 100px;
+}
+#imgFloat {
+  max-width: 40%;
+  height: 75vh;
+  float: right;
+  border-radius: 100%;
+  margin-right: 100px;
+}
+#img1 {
+  height: 75vh;
+  border-radius: 100%;
+}
+#last {
+  height: 12vh;
+  padding: 10px 50px 0px 50px;
+  background-color: white;
+}
+marquee {
+  font-size: 30px;
+  color: lightblue;
+  color: purple;
+  font-weight: bold;
+}
+#menu{
+    /* z-index: -1; */
+    background-color: purple;
+    font-size: 20px;
+    width: 100vw;
+  }
+  
+ #me{
+    z-index: -1;
+ }
+  #group{
+    font-size: 30px;
+    margin-left: 500px;
+    color: white;
+    font-weight: bold;
+  }
+  #note{
+    height: 100px;
+    border: 2px solid purple;
+  }
+  #title{
+    border: 2px solid purple;
+  }
+  #prim{
+    font-size: 20px;
+    font-weight: bold;
+    border: 2px solid purple;
+  }
+  #but{
+    background-color: purple;
+  }
+  #myTable{
+    /* border: 2px solid red; */
+    width: 100%;
+  }
+  tr,td{
+    color: black;
+    font-weight: bold;
+    border: 2px solid purple;
+  }
+  #two{
+    color: black;
+  }
+  #twoo{
+    color: black;
+    font-weight: 300;
+  }
+  #delete{
+    color: red;
+  }
+  #edit{
+    color: purple;
+  }
+  #auto{
+    border: 2px solid purple;
+  }
